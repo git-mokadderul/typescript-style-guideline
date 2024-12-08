@@ -1,7 +1,3 @@
-Here's your TypeScript style guide formatted similarly to the provided Next.js style guide:
-
----
-
 # **⚙️ TypeScript Style Guide**
 
 ## **📖 Table of Contents**
