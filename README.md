@@ -1,15 +1,27 @@
-# TypeScript Style Guide
+Here's your TypeScript style guide formatted similarly to the provided Next.js style guide:
 
-## Table of Contents
+---
+
+# **⚙️ TypeScript Style Guide**
+
+## **📖 Table of Contents**
+
+### **Core Concepts**
 
 1. [TS Types](#ts-types)
-1. [TS Functions](#ts-functions)
-1. [TS Variables](#ts-variables)
-1. [TS Null & Undefined](#ts-null--undefined)
-1. [TS Naming](#ts-naming)
-1. [TS React Components](#ts-react-components)
-1. [TS Comments](#ts-comments)
-1. [TS Source File Structure](#ts-source-file-structure-and-best-practices)
+2. [TS Functions](#ts-functions)
+3. [TS Variables](#ts-variables)
+4. [TS Null & Undefined](#ts-null--undefined)
+
+### **Code Style and Naming**
+
+5. [TS Naming](#ts-naming)
+6. [TS React Components](#ts-react-components)
+7. [TS Comments](#ts-comments)
+
+### **Best Practices**
+
+8. [TS Source File Structure and Best Practices](#ts-source-file-structure-and-best-practices)
 
 ---
 
