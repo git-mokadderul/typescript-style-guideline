@@ -1,6 +1,6 @@
 # **⚙️ TypeScript Style Guide**
 
-## Table of Contents
+## 📖 Table of Contents
 
 ### **Core Concepts**
 
